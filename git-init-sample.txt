@@ -1,0 +1,4 @@
+git remote add origin <path>
+->リモートリポジトリを追加する
+git remote -v
+->現在登録されているリモートリポジトリ一覧を表示する
